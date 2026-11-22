@@ -1,6 +1,4 @@
-Principe du jeu:
-
-Le principe est le suivant:
+Le principe du jeu est le suivant:
 
 Une partie est composée de plusieurs manche celui qui a le plus de points à la fin de la manche gagne la partie.
 Chaque manche se déroule de la manière suivant :
