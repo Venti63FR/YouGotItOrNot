@@ -2,7 +2,7 @@ Le principe du jeu est le suivant:
 
 Une partie est composée de plusieurs manche celui qui a le plus de points à la fin de la manche gagne la partie.
 Chaque manche se déroule de la manière suivant :
-Vous allez voir sur votre écran une réplique de film et le joueur qui joue, vous aurez quatres coups pour trouver le film.
+Vous allez voir sur votre écran une réplique de film et le joueur qui joue, vous aurez quatre coups pour trouver le film.
 
 -1er essaie = 100 points
 
@@ -33,10 +33,10 @@ Je vous souhaite bons jeux et bonnes victoires !
 
 PS: voici les probabilité du joker 3 :
 
--95% de chance d'avoir enre 0 et 4
+-95% de chance d'avoir entre 0 et 4
 
--4% de chance d'avoir enre 5 et 9
+-4% de chance d'avoir entre 5 et 9
 
--0.9999% de chance d'avoir enre 10 et 14
+-0.9999% de chance d'avoir entre 10 et 14
 
--0.0001% de chance d'avoir enre 15 et 20
+-0.0001% de chance d'avoir entre 15 et 20
