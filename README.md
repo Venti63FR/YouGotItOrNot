@@ -1,5 +1,7 @@
 Principe du jeu:
+
 Le principe est le suivant:
+
 Une partie est composée de plusieurs manche celui qui a le plus de points à la fin de la manche gagne la partie.
 Chaque manche se déroule de la manière suivant :
 Vous allez voir sur votre écran une réplique de film et le joueur qui joue, vous aurez quatres coups pour trouver le film.
